@@ -1,0 +1,11 @@
+.series_image {
+  width: 25vw;
+  height: 40vh;
+  border-radius: 5px;
+}
+
+.card {
+  background-color: gray;
+  margin-top: 30px;
+  border-radius: 5px;
+}
